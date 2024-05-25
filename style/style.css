@@ -6,11 +6,14 @@
 .black_overlay {
   height: 600px;
   width: 100vw;
-  background: black;
+  /* background: black; */
   overflow: hidden;
 }
 .w3-center span {
   color: #1a76d1;
+}
+.w3-first-page-index .img-container img{
+  width: 
 }
 .w3-container-01 {
   background-color: #fff !important;
